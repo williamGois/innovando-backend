@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build directories
+build/
+public/
+
+
+# Adonis-specific
+.tmp/
+ace-manifest.json
+
+# Logs
+logs/
+*.log
+
+# Editor and IDE settings
+.idea/
+.vscode/
+*.swp
+
+# Docker
+docker-compose.override.yml
